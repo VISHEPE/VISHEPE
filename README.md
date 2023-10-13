@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VISHEPE
+- 👋 Hi, I’m @VICTOR 
 - 👀 I’m interested in software development and cyber security.
 - 🌱 I’m currently learning software development.
 - 💞️ I’m looking to collaborate on the two field above😜
