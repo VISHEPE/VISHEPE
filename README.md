@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/victor-odhiambo-511003263/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     
-  </a>
+  </a><br>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   
 </div>
