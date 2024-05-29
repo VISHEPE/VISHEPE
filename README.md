@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @VICTOR 
-- 👀 I’m interested in software development and cyber security.
-- 🌱 I’m currently learning software development.(php,js,html,css,bootstrap,currently learning python)
-- 💞️ I’m looking to collaborate on the two field above😜
-- 📫 How to reach me email me (emmanuelv428@gmail).
+
 -<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
@@ -17,5 +13,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+---
+
+### :woman_technologist: About Me :
+- 👋 Hi, I’m @VICTOR 
+- 👀 I’m interested in software development and cyber security.
+- 🌱 I’m currently learning software development.(php,js,html,css,bootstrap,currently learning python)
+- 💞️ I’m looking to collaborate on the two field above😜
+- 📫 How to reach me email me (emmanuelv428@gmail).
 
 
