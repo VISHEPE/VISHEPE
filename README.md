@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning software development.(php,js,html,css,bootstrap,currently learning python)
 - 💞️ I’m looking to collaborate on the two field above😜
 - 📫 How to reach me email me (emmanuelv428@gmail).
-- <div>
+- <div align="center">
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -40,6 +40,8 @@
 </div>
 
 ### :fire: My Stats :
+<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
 
 
