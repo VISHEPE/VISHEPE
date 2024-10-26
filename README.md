@@ -15,13 +15,13 @@
 ### :woman_technologist: About Me :
 - 👋 Hi, I’m @VICTOR 
 - 👀 I’m interested in software development and cyber security.
-- 🌱 I’m currently learning software development.(php,js,html,css,bootstrap,currently learning python)
+- 🌱 I’m currently learning software development in Power Learn Academy.(php,js,html,css,bootstrap,currently learning python and dart(flutter))
 - 💞️ I’m looking to collaborate on the two field above😜
 - 📫 How to reach me email me (emmanuelv428@gmail).
 - <div align="center">
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+ 
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   
